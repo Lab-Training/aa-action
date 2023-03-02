@@ -1,3 +1,2 @@
 "Hello"
 "This is the demo for self-hosted runner"
-"Second demo"
